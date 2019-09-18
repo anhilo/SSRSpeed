@@ -14,8 +14,8 @@
 		"password": null
 	},
 	"web": {
-		"listen": "127.0.0.1",
-		"port": 10870,
+		"listen": "0.0.0.0",
+		"port": 80,
 		"token": ""
 	},
 	"exportResult": {
